@@ -1,6 +1,6 @@
 
 * T5 — Do-file automatizado
-* Autor: Francisca Quezada        Fecha: 2026-11-12
+* Autor: Francisca Quezada        Fecha: 2026-11-17
 
 ** 1. Encabezado con macros de configuración
 version 14
